@@ -45,7 +45,7 @@ p{
 }
 
 .header {
-	background-image: url(images/happy.png), url(images/landscape.jpg) ;
+	background-image: url(CodeDMDA/images/happy.png), url(CodeDMDA/images/landscape.jpg) ;
 	background-position: bottom 10px right 20px, 50% 53.4%;
 	background-size: 7%, cover;
   background-repeat: no-repeat;
@@ -70,7 +70,7 @@ p{
 
 .div1{
   background-color: white;
-  background-image: url(images/ft.png), url(images/backg.png);
+  background-image: url(CodeDMDA/images/ft.png), url(CodeDMDA/images/backg.png);
   background-position: bottom right 20px, center;
   background-size: 24%, 30%;
   background-repeat: no-repeat, repeat;
@@ -101,7 +101,7 @@ p{
   height: 78%;
   background-color: rgba(0, 0, 0, 85%);
   /*background-image: linear-gradient(rgba(0, 0, 0, 80%), rgba(0, 0, 0, 80%)),
-                    url("images/fire.jpg");*/
+                    url("CodeDMDA/images/fire.jpg");*/
   background-size: cover;
   display: flex;
   align-items: center;
@@ -130,7 +130,7 @@ p{
 }
 
 .quest-board {
-  background-image: linear-gradient(rgba(0,0,0, 50%), rgba(0,0,0, 50%)), url(images/banner.png);
+  background-image: linear-gradient(rgba(0,0,0, 50%), rgba(0,0,0, 50%)), url(CodeDMDA/images/banner.png);
   background-size: cover;
   display: flex;
   flex-direction: column;
@@ -230,7 +230,7 @@ the flip box container */
   display: flex;
   flex-wrap: wrap;
   flex-direction: column;
-  background-image: url(images/happy3.png), url(images/happy3bis.png), url(images/backg.png);
+  background-image: url(CodeDMDA/images/happy3.png), url(CodeDMDA/images/happy3bis.png), url(CodeDMDA/images/backg.png);
   background-size: 10%, 10%, 30%;
   background-position: 5% 7%, 95% 7%, center;
   background-repeat: no-repeat, no-repeat, repeat;
@@ -294,7 +294,7 @@ footer{
   }
 
   .header {
-    background-image: url(images/happy.png), url(images/landscape.jpg) ;
+    background-image: url(CodeDMDA/images/happy.png), url(CodeDMDA/images/landscape.jpg) ;
     background-position: bottom 10px right 20px, 50% 53.4%;
     background-size: 7%, cover;
     background-repeat: no-repeat;
